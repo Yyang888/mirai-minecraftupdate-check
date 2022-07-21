@@ -19,6 +19,7 @@ package com.github.dreamonex.mcupdatecheck;
 import net.mamoe.mirai.console.command.CommandManager;
 import net.mamoe.mirai.console.plugin.jvm.JavaPlugin;
 import net.mamoe.mirai.console.plugin.jvm.JvmPluginDescriptionBuilder;
+import net.mamoe.mirai.event.GlobalEventChannel;
 
 import com.github.dreamonex.mcupdatecheck.command.CheckMCCommand;
 import com.github.dreamonex.mcupdatecheck.command.SubscribeCommand;
